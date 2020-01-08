@@ -1,4 +1,4 @@
-# PowerThunder.github.io
+# *DreamPower's blog*
 DreamPower's Blog
 echo "# PowerThunder.github.io" >> README.md
 git init
