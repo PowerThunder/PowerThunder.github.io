@@ -3,4 +3,4 @@
 > 
 [手游性能优化之深入理解Texture Compression](https://gameinstitute.qq.com/community/detail/105271)
 >
-[这是个页面跳转测试]（https://github.com/PowerThunder/PowerThunder.github.io/blob/master/TextureCompression）
+[这是个页面跳转测试](https://github.com/PowerThunder/PowerThunder.github.io/blob/master/TextureCompression)
